@@ -1,6 +1,6 @@
 # Bus Stop Map-Markers
 
-##Description
+## Description
 This project will show you the exact location of every bus stops between MIT and Harvard.
 
 ## How To Run
@@ -11,7 +11,7 @@ Save it and open the HTML file in your browser. Now you can see the bus stops!
 ## Roadmap of Future Improvements
 To change the colors of the map markers and add new routes.
 
-##License
+## License
 MIT License
 
 Copyright (c) 2023 by Gabriela Gomez Rodriguez
